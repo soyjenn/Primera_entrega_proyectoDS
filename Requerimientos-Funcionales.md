@@ -1,4 +1,5 @@
-|Requerimiento|Categoría|Descripción||
+|Requerimiento|Categoría|Descripción|
+|-|-|-|
 
 |RF1|Gestión de Clientes|El sistema debe permitir registrar, modificar y eliminar información de clientes.|
 
